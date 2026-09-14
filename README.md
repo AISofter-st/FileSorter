@@ -111,4 +111,5 @@ If you want to run the project via Python or modify the code.
 * **Configure Filters:** Choose categories for sorting and configure duplicate/heavy file removal settings.
 * **Click "Organize Files":** The application will sort your files and display the statistics.
 * **Check the Result: Your original files are kept safe on the disk as long as the result window remains open**. Open your sorted folder. If everything looks good — simply close the program, and the quarantine folder will be permanently deleted. If something went wrong — hit the Undo button.
+<br>
 ![Скачивания/Download](https://img.shields.io/github/downloads/AISofter-st/FileSorter/total?color=blue&label=Скачиваний/Download)
