@@ -36,7 +36,7 @@
 1. Склонируйте репозиторий:
    ```bash
    git clone https://github.com/AISofter-st/FileSorter.git
-   cd file-sorter-modern
+   cd file-sorter
    pip install customtkinter tkinterdnd2 pillow
    python File_Sorter.py
 ## 💡 Как это работает
